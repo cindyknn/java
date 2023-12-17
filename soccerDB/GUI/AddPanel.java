@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Joel_Ward
+ * @author cindyknn
  */
 public class AddPanel extends javax.swing.JPanel {
     private final MainFrame main;

@@ -18,7 +18,7 @@ import javax.swing.JLabel;
 
 /**
  *
- * @author jward
+ * @author cindyknn
  */
 public class TeamInfo extends javax.swing.JPanel {
 

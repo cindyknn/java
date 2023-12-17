@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author jward
+ * @author cindyknn
  */
 public class OpenPanel extends javax.swing.JPanel {
 

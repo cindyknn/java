@@ -4,8 +4,7 @@ import java.util.ArrayList;
 
 /**
  * A Class to keep details of Barbies
- * @author Joe 
- * @version 20081030
+ * @author cindyknn
  */
 public class SoccerPlayer {
     // instance variables - or data members

@@ -10,7 +10,7 @@ import StaticClasses.InfoTableModel;
 
 /**
  *
- * @author jward
+ * @author cindyknn
  */
 public class ProfilePanel extends javax.swing.JPanel {
     SoccerPlayer mvp;

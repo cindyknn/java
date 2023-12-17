@@ -28,7 +28,7 @@ import static javax.swing.WindowConstants.EXIT_ON_CLOSE;
 
 /**
  *
- * @author jward
+ * @author cindyknn
  */
 public class MainFrame extends javax.swing.JFrame {
 

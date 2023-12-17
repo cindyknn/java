@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author jward
+ * @author cindyknn
  */
 public class Team {
     

@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author jward
+ * @author cindyknn
  */
 public class SavePanel extends javax.swing.JPanel {
     MainFrame data;
