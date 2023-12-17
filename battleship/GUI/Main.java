@@ -14,7 +14,7 @@ import javax.swing.JTable;
 
 /**
  *
- * @author jward
+ * @author CindyNguyen
  */
 public class Main extends javax.swing.JFrame {
     Player human;
